@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at **Foursys**
 
-- 🌱 I’m currently learning **Mainframe software developer skills**
+- 🌱 I’m currently learning **Mainframe Software Developer Skills**
 
-- 📫 How to reach me **lucianofilho0805@gmail.com**
+- 📫 How to reach me: **lucianofilho0805@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
